@@ -3,6 +3,8 @@ KesselRun
 
 This is a software puzzle which was written for the Microsoft Intern PuzzleDay 2008.
 
+![Screenshot](/screenshot.png?raw=true "Screenshot")
+
 # Rules
 
 ## The Puzzle
